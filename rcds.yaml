@@ -1,0 +1,25 @@
+docker:
+  image:
+    prefix: us-west1-docker.pkg.dev/la-ctf/lactf-challs
+defaults:
+  containers:
+    resources:
+      limits:
+        cpu: 200m
+        memory: 256Mi
+      requests:
+        cpu: 50m
+        memory: 64Mi
+backends:
+  - resolve: k8s
+    options:
+      domain: lac.tf
+      ingressController: nginx
+  - resolve: rctf
+    options:
+      url: "https://platform.lac.tf"
+      token: "DRUcDUb4VadgGTZyF9GGbGpW8Aovb9jDPspMNiT0GJd9kbua0D/g5NAazA0YeMMJNRK67WJu2Jx/MH5lNMAu0OinYaty5HAB1Yw4MKAc0NXKpkx3uZxSDp9cjmaE"
+      # sortOrder:
+        # these should match the directory name, NOT the name field in the challenge.yaml
+        # - discord
+        # - test-chall
