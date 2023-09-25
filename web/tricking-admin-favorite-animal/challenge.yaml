@@ -1,0 +1,10 @@
+name: tricking the admin for their favorite animal
+author: burturt
+description: |-
+  I need you to steal the admin's favorite animal and get it to me. If you go to [admin-bot.acmcyber.com/tricking-admin-favorite-animal](admin-bot.acmcyber.com/tricking-admin-favorite-animal) they might just visit your url!
+
+  [favorite-animal.acmcyber.com](favorite-animal.acmcyber.com)
+value: 10
+
+flag:
+  file: "../tricking_admin_favorite_animal_flag.txt"
