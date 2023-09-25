@@ -1,0 +1,6 @@
+name: wanna cry again
+author: burturt
+description: |-
+  In a not-so-distant-ago time, a certain malware called WannaCry took the news by storm, infecting millions of computers and encrypting files, held for a ransom payment. However, an even more powerful malware abusing the same exploit did over twice as much economic estimated damage than WannaCry, yet got barely any news coverage. What is the name of this malware?
+
+flag: "cyber{notpetya}"
