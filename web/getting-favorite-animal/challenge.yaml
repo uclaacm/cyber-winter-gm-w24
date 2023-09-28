@@ -1,0 +1,10 @@
+name: getting my favorite animal
+author: burturt
+description: |-
+  Can you please get my favorite animal? I set my favorite animal under my username burturt but then I closed my browser and poof! gone!
+
+  [favorite-animal.acmcyber.com](favorite-animal.acmcyber.com)
+value: 10
+
+flag:
+  file: "../favorite-animal/getting_favorite_animal_flag.txt"
