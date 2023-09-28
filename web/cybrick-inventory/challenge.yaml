@@ -1,5 +1,5 @@
 name: cybrick-inventory
-author: arcblroth
+author: andrew
 description: >-
   Deep within the ACM Cyber® LLC intranet, you've found a curious inventory page for some premarket product called a _Cybrick™_.
   There's just one problem - it's protected by the most complicated authentication system you've ever seen!
@@ -8,6 +8,7 @@ description: >-
   {{link}}
 
 flag: "cyber{cybr1ck5_ar3_mad3_w1th_l0v3}"
+value: 25
 
 containers:
   main:
