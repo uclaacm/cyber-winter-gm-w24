@@ -1,0 +1,27 @@
+name: rcds check
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.11
+    - name: Download rcds
+      uses: actions/checkout@v4
+      with:
+        repository: 'uclaacm/rcds'
+    - name: Install rcds
+      run: |
+        python -m pip install --upgrade pip
+        pip install .
+    - name: Overwrite rcds.yaml with basic blank config
+      run: |
+        echo "docker:\n  image:\n    prefix: invalid.local/rcds
+    - name: Run rcds
+      run: |
+        rcds deploy
