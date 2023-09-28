@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+      with:
+        path: 'challs'
     - name: Set up Python 3.11
       uses: actions/setup-python@v3
       with:
@@ -15,13 +17,19 @@ jobs:
       uses: actions/checkout@v4
       with:
         repository: 'uclaacm/rcds'
+        path: 'rcds'
     - name: Install rcds
+      working-directory: 'rcds'
       run: |
         python -m pip install --upgrade pip
         pip install .
     - name: Overwrite rcds.yaml with basic blank config
+      working-directory: 'challs'
       run: |
-        echo "docker:\n  image:\n    prefix: invalid.local/rcds
+        (echo "docker:"
+        echo "  image:"
+        echo "    prefix: invalid.local/rcds") > rcds.yaml
     - name: Run rcds
+      working-directory: 'challs'
       run: |
         rcds deploy
