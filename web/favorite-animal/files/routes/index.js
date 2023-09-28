@@ -4,9 +4,10 @@ var fs = require("fs")
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  let user = req.cookies["username"]
+  console.log(req.cookies);
+  let user = req.query.username
   if (user === undefined) {
-    user = req.query.username
+    user = req.cookies["username"]
     if (user === undefined) {
       return res.redirect("/login");
     }

@@ -1,4 +1,5 @@
 FROM node:20
+ENV NODE_ENV production
 RUN mkdir -p /opt/read-my-session/
 WORKDIR /opt/read-my-session/
 COPY files/ .
