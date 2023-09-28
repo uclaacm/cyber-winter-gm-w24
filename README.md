@@ -6,3 +6,4 @@ Challenges for ACM Cyber's 2023 Fall GM.
 - Feel free to dump challenge files and content into a new challenge folder first before formalizing it with a challenge.yml
 - All challenges that have a remote component should have a solve script to verify that a challenge is working
 - Writeups ideally are in markdown for ease of viewing in github GUI. Highly recommend at least a super basic one so that should something go wrong during the ctf, other organizers can provide support
+- <ins>**DO NOT PUBLISH rcds.yaml PUBLICLY!**</ins>
