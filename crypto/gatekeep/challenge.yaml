@@ -1,0 +1,10 @@
+name: gatekeep
+author: Arnav
+description: |-
+  I really like trains. I wanted to take a visit to an abandoned junkyard containing a lot of vintage trains. Unfortunately, I couldn't get past its barbed wire fence. I found a piece of paper outside though, with some weird gibberish on it: `ISOLNATOOINOVADDERYUTO`. I think it's some kind of cipher, maybe related to trains? What does it mean?
+
+  Wrap the answer in `cyber{}` and make sure it is all lowercase before submitting.
+value: 10
+
+
+flag: "cyber{ilovetrainsandyoudotoo}"
