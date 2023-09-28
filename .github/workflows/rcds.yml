@@ -28,7 +28,10 @@ jobs:
       run: |
         (echo "docker:"
         echo "  image:"
-        echo "    prefix: invalid.local/rcds") > rcds.yaml
+        echo "    prefix: localhost:5000/cyber-fall-gm-f23") > rcds.yaml
+    - name: Run a temporary local docker registry
+      run: |
+        docker run -d -p 5000:5000 --restart=always registry:2
     - name: Run rcds
       working-directory: 'challs'
       run: |
