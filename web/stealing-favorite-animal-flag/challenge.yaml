@@ -7,4 +7,4 @@ description: |-
 value: 15
 
 flag:
-  file: "../favorite-animal/stealing_favorite_animal_flag.txt"
+  file: "../favorite-animal/stealing-favorite-animal-flag.txt"
