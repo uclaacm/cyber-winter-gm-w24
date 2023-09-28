@@ -1,0 +1,8 @@
+name: major-differences
+author: Arnav
+description: |-
+  Find two members that are in a different major than yours and then talk to Arnav to get the flag.
+value: 15
+
+
+flag: "cyber{cse_chads_stay_winning}"
