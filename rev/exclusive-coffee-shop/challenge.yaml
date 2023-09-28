@@ -1,0 +1,12 @@
+name: exclusive coffee shop
+author: burturt
+description: |-
+  I stole the program that the cyber cafe uses to validate membership, but I can't figure out a way to get a valid ID? Can you help me find a valid membership ID?
+
+  [favorite-animal.acmcyber.com](favorite-animal.acmcyber.com)
+value: 10
+
+flag: "cyber{CYBRICK-32786-53947}"
+
+provide:
+  - files/ECS.jar
