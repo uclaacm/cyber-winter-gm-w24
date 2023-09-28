@@ -1,5 +1,5 @@
 name: tricking the admin for their favorite animal
-author: burturt
+author: Alec Machlis
 description: |-
   I need you to steal the admin's favorite animal and get it to me. If you go to [admin-bot.acmcyber.com/tricking-admin-favorite-animal](admin-bot.acmcyber.com/tricking-admin-favorite-animal) they might just visit your link!
 
@@ -8,3 +8,6 @@ value: 20
 
 flag:
   file: "../favorite-animal/tricking-admin-favorite-animal-flag.txt"
+
+provide:
+  - "../favorite-animal/favorite-animal.zip"

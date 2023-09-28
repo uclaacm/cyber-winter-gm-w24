@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// Default file
+// There's nothing important here, keep looking in other files...
+
 /**
  * Module dependencies.
  */

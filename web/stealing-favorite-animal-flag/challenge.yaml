@@ -1,5 +1,5 @@
 name: stealing favorite animal flags
-author: burturt
+author: Alec Machlis
 description: |-
   Actually I also lost my flag on the favorite animals server. Can you get it? It should be at just the file location /flag.txt
 
@@ -8,3 +8,6 @@ value: 15
 
 flag:
   file: "../favorite-animal/stealing-favorite-animal-flag.txt"
+
+provide:
+  - "../favorite-animal/favorite-animal.zip"

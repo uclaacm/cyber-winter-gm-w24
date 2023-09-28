@@ -1,3 +1,6 @@
+// Default file
+// There's nothing important here, keep looking in other files...
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
