@@ -1,0 +1,85 @@
+<html>
+ <head>
+   <title>${page} | ACM CYBER® LLC INTRANET</title>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+   <style>*{text-transform:lowercase}h1,form>label:first-of-type{margin-left:-.5ch}fieldset{display:inline}@keyframes r{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}body{margin-top:25vh;animation:10000s linear 0s infinite normal both running r;}</style>
+ </head>
+ <body>
+   <h1 id="h1">cybrick invetory manager login</h1>
+   <form id="login">
+      <label for="username">username</label>
+      <input type="username" id="username"></input>
+      <label for="email">email</label>
+      <input type="email" id="email"></input>
+      <label for="password">password</label>
+      <input type="password" id="password"></input>
+      <input type="reset" id="submit"></input>
+      <input type="submit" id="submit"></input>
+      <label for="telephone">home phone</label>
+      <input type="tel" id="home"></input>
+      <label for="telephone">work phone</label>
+      <input type="tel" id="work"></input>
+      <br>
+      <label for="birthday">birthday</label>
+      <input type="date" id="birthday"></input>
+      <label for="today">today</label>
+      <input type="date" id="today"></input>
+      <label for="address">address</label>
+      <input type="text" id="address"></input>
+      <label for="elementary">elementary school address</label>
+      <input type="text" id="elementary"></input>
+      <label for="number">favorite number</label>
+      <input type="range" id="number" value="69" oninput="r(this)"></input>
+      <output>69</output>
+      <label for="ssn">ssn</label>
+      <input type="range" id="ssn" value="000000000" min="000000000" max="999999999" oninput="r(this)"></input>
+      <output>000000000</output>
+      <br>
+      <label for="mother">mother's maiden name</label>
+      <select id="mother" multiple onscroll="s(this)">
+          <option>a</option>
+          <option>b</option>
+          <option>c</option><option>d</option>
+          <option>e</option>
+      </select>
+      <label for="pet">pet's mother name</label>
+      <select id="pet" multiple onscroll="s(this)">
+          <option>a</option>
+          <option>b</option><option>c</option>
+          <option>d</option>
+          <option>e</option>
+      </select>
+      <label for="public">public key</label>
+      <input type="file" id="public"></input>
+      <label for="private">private key</label>
+      <input type="file" id="private"></input>
+      <br>
+      <label for="color">color</label>
+      <input type="color" id="color"></input>
+      <label for="robot">robot</label>
+      <input type="checkbox" id="robot"></input>
+      <fieldset id="species">
+          <label for="dinosaur">dinosaur</label>
+          <input type="radio" id="dinosaur" name="species"></input>
+          <label for="duck">duck</label>
+          <input type="radio" id="duck" name="species"></input>
+          <label for="other">other</label>
+          <input type="radio" id="other" name="species"></input>
+      </fieldset>
+   </form>
+   <script>
+      let $=i=>document.getElementById(i)
+      let r=e=>e.nextElementSibling.value=e.value
+      let n=(c,a)=>c=="z"?[a?"b":"a",true]:a&&c=="y"?["a",true]:[String.fromCharCode(c.charCodeAt(0)+1+(a?1:0)),false]
+      let p=(c,a)=>a&&c=="z"?["a",true]:[String.fromCharCode(c.charCodeAt(0)+(a?1:0)),false]
+      let m=s=>{let o=[],a=false,b=false;for(let c of s){[c,a]=!b?n(c,a):p(c,a);b=true;o.push(c);}if(a){o.push("a")}return o.join("")}
+      let s=e=>{if(e.scrollTop==e.scrollHeight-e.clientHeight){let t=e.scrollTop;for(let i=0;i<5;i++){e.options.add(new Option(m(e.options[e.options.length-1].value)))}e.scrollTop=t}}
+      let l=i=>i.toString().length==2?i.toString():"0"+i
+      let t=new Date()
+      $("login").onsubmit=e=>e.preventDefault()+void($("username").value===m("bybean")&&$("email").value==="ft.cal@naebyc".split("").reverse().join('')&&$("password").value===$("email").nextElementSibling.nextElementSibling.id&&new Date($("birthday").value).getTime()==-48899462400000&&$("today").value==`${t.getFullYear()}-${l(t.getMonth()+1)}-${l(t.getDate())}`&&$("number").value==420&&$("ssn").value==3*89*2411593&&Number("0x"+$("color").value.substring(1))==16759364&&$("robot").value=="on"&&$("duck").value==="on"?alert(`${$("email").value.charAt(6)}${n("x")[0]}${$("username").value.charAt(2)}${n("d")[0]}${$("password").value.charAt(6)}{${$("h1").textContent.split(" ")[0].replace($("email").previousElementSibling.textContent.charAt(3), ($("ssn").value % 10).toString())}5_${$("email").value.charAt(8)}${$("password").value.charAt(6)}3_m${$("password").value.charAt(1)}d${$("color").value.charAt(6)-1}_w${$("ssn").value.charAt(2)/3}${$("email").value.charAt(11)}h_l${$("birthday").value.charAt(1)-4}v${($("number").value.charAt(0)+$("number").value.charAt(1))/14}}`):![])
+   </script>
+ </body>
+</html>
