@@ -1,0 +1,7 @@
+name: pet enthusiasts
+author: salma
+description: |-
+  Find three people with a pets and get each of them to draw their pet for you (writing the name of the pet underneath the drawing). Bring the sketches to Salma for your flag! No artistic talent necessary.
+value: 10
+
+flag: "cyber{cats_on_top}"
