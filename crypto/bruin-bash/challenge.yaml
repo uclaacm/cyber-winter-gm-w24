@@ -1,0 +1,10 @@
+name: Bruin Bash
+author: Victoria
+description: |-
+  I was AT bruin BASH dancing away when I noticed someone with a poster that had 'qznnrm_gl_blfmt_mfwb' written on it. I wonder what it says?
+
+  Wrap the answer in `cyber{}` before submitting.
+value: 10
+
+
+flag: "cyber{jammin_to_young_nudy}"
