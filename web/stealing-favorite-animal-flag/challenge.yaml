@@ -4,7 +4,7 @@ description: |-
   Actually I also lost my flag on the favorite animals server. Can you get it? It should be at just the file location /flag.txt
 
   [favorite-animal.acmcyber.com](favorite-animal.acmcyber.com)
-value: 15
+value: 20
 
 flag:
   file: "../favorite-animal/stealing-favorite-animal-flag.txt"
