@@ -1,0 +1,10 @@
+name: my lock v2
+author: Alec Machlis
+description: |-
+  Since you broke my first lock, I've made a stronger one!
+value: 35
+
+flag: "cyber{x0r_s741ng_1n_m3m0ry}"
+
+provide:
+  - "my-lock-v2.o"

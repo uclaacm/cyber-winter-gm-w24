@@ -1,0 +1,11 @@
+name: my lock
+author: Alec Machlis
+description: |-
+  I made a lock. I bet you can't break it!
+value: 10
+
+flag: "cyber{un3nc4yp13d_47r1ng_c0mp4r3}"
+
+provide:
+  - "my-lock-m1.o"
+  - "my-lock-x64.o"
