@@ -1,9 +1,9 @@
 name: tricking the admin for their favorite animal
 author: Alec Machlis
 description: |-
-  I need you to steal the admin's favorite animal and get it to me. If you go to [admin-bot.acmcyber.com/tricking-admin-favorite-animal](admin-bot.acmcyber.com/tricking-admin-favorite-animal) they might just visit your link!
+  I need you to steal the admin's favorite animal and get it to me. If you go to [admin-bot.acmcyber.com/tricking-admin-favorite-animal](https://admin-bot.acmcyber.com/tricking-admin-favorite-animal) they might just visit your link!
 
-  [favorite-animal.acmcyber.com](favorite-animal.acmcyber.com)
+  [favorite-animal.acmcyber.com](https://favorite-animal.acmcyber.com)
 value: 40
 
 flag:
