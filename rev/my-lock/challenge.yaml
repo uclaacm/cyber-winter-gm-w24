@@ -5,7 +5,7 @@ description: |-
 
   If you can't run my lock on your computer, check out [https://shell.cloud.google.com](https://shell.cloud.google.com)
 
-  Hint: try looking at the file in a text editor.
+  Hint: `strings` is a really cool linux command. I wonder what it does?
 value: 10
 
 flag: "cyber{un3nc4yp13d_47r1ng_c0mp4r3}"
