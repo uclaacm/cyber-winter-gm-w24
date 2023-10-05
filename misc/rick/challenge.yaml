@@ -4,6 +4,8 @@ description: |-
   This is a picture.
   Wrap the answer in `cyber{}` and make sure it is all lowercase before submitting.
 value: 10
+provide:
+  - ./Rickroll.jpg
 
 
 flag: "cyber{nggyunglydngraady}"
