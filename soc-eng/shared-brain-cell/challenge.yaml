@@ -4,6 +4,8 @@ description: |-
   Find someone who's in a class you're also in. Then share your hopes and dreams about the coming lectures ahead!
 
   Bring you and your classmate to Andrew to get the flag.
+
+  CS 31 is not a valid class for this challenge.
 value: 10
 
 flag: "cyber{2_brain_cells_make_class_twice_as_fun}"

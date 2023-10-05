@@ -4,6 +4,8 @@ description: |-
   I made a lock. I bet you can't break it!
 
   If you can't run my lock on your computer, check out [https://shell.cloud.google.com](https://shell.cloud.google.com)
+
+  Hint: try looking at the file in a text editor.
 value: 10
 
 flag: "cyber{un3nc4yp13d_47r1ng_c0mp4r3}"
