@@ -1,9 +1,11 @@
 name: getting my favorite animal
 author: Alec Machlis
 description: |-
-  Can you please get my favorite animal? I set my favorite animal under my username burturt but then I closed my browser and poof! gone!
+  Can you please get my favorite animal? I set my favorite animal under my username `burturt` but then I closed my browser and poof! gone!
 
   [favorite-animal.acmcyber.com](https://favorite-animal.acmcyber.com)
+
+  
 value: 10
 
 flag:

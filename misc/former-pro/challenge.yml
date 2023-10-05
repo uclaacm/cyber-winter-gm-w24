@@ -14,7 +14,7 @@ description: |-
   yet his name remains a mystery,
   known only to be connected loosely with the author of this challenge.
 
-  Flag Format: cyber{instagram_username}
+  Flag Format: `cyber{instagram_username}`
 value: 20
 
 flag: "cyber{roryxballer}"
