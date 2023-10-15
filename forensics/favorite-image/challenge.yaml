@@ -1,0 +1,10 @@
+name: favorite-image
+author: Luke
+description: |-
+  I seem to have lost my favorite image, can you help me find it?
+value: 20
+provide:
+  - ./my_image.png
+
+
+flag: "flag{always_walk_your_bin}"
