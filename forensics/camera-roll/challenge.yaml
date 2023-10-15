@@ -2,7 +2,7 @@ name: camera-roll
 author: Luke
 description: |-
   My friend sent me a picture he says contains his entire camera roll and told me something about putting out a fire. Can you put the fire out for me?
-value: 20
+value: 15
 provide:
   - ./camera_roll.jpg
 
