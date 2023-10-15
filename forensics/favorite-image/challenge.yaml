@@ -2,7 +2,7 @@ name: favorite-image
 author: Luke
 description: |-
   I seem to have lost my favorite image, can you help me find it?
-value: 20
+value: 10
 provide:
   - ./my_image.png
 
