@@ -2,7 +2,7 @@ name: nasty-nest
 author: Luke
 description: |-
   I seem to have lost my belongings in a nasty nest of my own creation. Can you get them back for me?
-value: 10
+value: 15
 provide:
   - ./nest.zip
 
