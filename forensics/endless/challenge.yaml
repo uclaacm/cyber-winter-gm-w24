@@ -1,0 +1,10 @@
+name: endless
+author: James
+description: |-
+  wow look at this endless pdf! okay its not really endless but its pretty long and full of random characters, can you help me see if the flag is anywhere?
+value: 10
+provide:
+  - ./endless.pdf
+
+
+flag: "flag{end_0f_fi1e}"

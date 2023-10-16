@@ -1,0 +1,10 @@
+name: missing-person
+author: Luke
+description: |-
+  I was zipping all my stuff together and realized that I'm missing a person. Could you find them for me?
+value: 15
+provide:
+  - ./stuff.zip
+
+
+flag: "flag{sm00th_op3rator}"
