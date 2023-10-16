@@ -2,7 +2,7 @@ name: hundred-layer-cake
 author: Jerry
 description: |-
   As a poor peasant, you are ecstatic at the opportunity to serve the royal crown, especially in as fulfilling of a role as the Royal Taster. However, the Queen is very paranoid about her food. Can you make sure that this cake that the Royal chef served is safe for the Queen to eat?
-value: 15
+value: 10
 provide:
   - ./cake.zip
 
