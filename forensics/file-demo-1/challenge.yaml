@@ -1,7 +1,7 @@
 name: file-demo-1
 author: Luke
 description: |-
-  Submission flag is all individual flags underscore separated: flag{flag1_flag2_flag3_flag4}.
+  Submission flag is all individual flags underscore separated: `flag{flag1_flag2_flag3_flag4}`.
 value: 20
 provide:
   - ./file_demo
