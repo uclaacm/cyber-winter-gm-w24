@@ -1,0 +1,25 @@
+name: man-is-the-man
+author: Gary Song
+description: |- 
+  I came up with the name in 5 seconds
+  
+value: 25
+
+flag: "cyber{man-in-the-middle!-kinda?}"
+
+provide:
+  - bob.py
+
+containers:
+  main:
+    build: .
+    replicas: 1
+    ports:
+      - 5000
+    securityContext:
+      privileged: true
+
+expose:
+  main:
+  - target: 5000
+    tcp: 31190
