@@ -1,0 +1,10 @@
+name: my-insecurity
+author: Alec
+description: |-
+  I found this web server that's revealing my insecurities :(
+
+  [https://insecurities.acmcyber.com](https://insecurities.acmcyber.com)
+
+value: 15
+
+flag: "cyber{byp4ss1n_4h3_s3cu41ty}"
