@@ -6,7 +6,7 @@ description: |-
   Introduce yourself to at least 2 other people so that you have parts 1, 2, and 3, and together find Alec to receive the last portion of the flag!
 
   Flag inspired by [https://xkcd.com/936/](https://xkcd.com/936/)
-value: 20
+value: 2
 
 
 flag: "cyber{excellent_why_spoken_obtain_herd_program_slept_cyber}"

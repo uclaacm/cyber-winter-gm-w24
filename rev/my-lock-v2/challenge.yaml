@@ -4,7 +4,7 @@ description: |-
   Since you broke my first lock, I've made a stronger one!
 
   If you can't run my lock on your computer, check out [https://shell.cloud.google.com](https://shell.cloud.google.com)
-value: 35
+value: 3
 
 flag: "cyber{x0r_s741ng_1n_m3m0ry}"
 

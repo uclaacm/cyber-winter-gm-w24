@@ -15,7 +15,7 @@ description: |-
   known only to be connected loosely with the author of this challenge.
 
   Flag Format: `cyber{instagram_username}`
-value: 20
+value: 2
 
 flag: "cyber{roryxballer}"
 

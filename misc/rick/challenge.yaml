@@ -3,7 +3,7 @@ author: Daniel
 description: |-
   This is a picture.
   Wrap the answer in `cyber{}` and make sure it is all lowercase before submitting.
-value: 10
+value: 1
 provide:
   - ./Rickroll.jpg
 
