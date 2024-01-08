@@ -10,7 +10,6 @@ jobs:
       with:
         path: 'challs'
     - name: Create rcds requirements.txt
-      working-directory: 'rcds'
       run: |
         echo "git+https://github.com/uclaacm/rcds.git" > requirements.txt
     - name: Set up Python 3.11
@@ -19,7 +18,6 @@ jobs:
         python-version: 3.11
         cache: 'pip'
     - name: Install rcds
-      working-directory: 'rcds'
       run: |
         pip install -r requirements.txt
     - name: Overwrite rcds.yaml with basic blank config
