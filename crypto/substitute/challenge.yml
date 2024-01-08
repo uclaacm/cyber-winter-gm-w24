@@ -1,0 +1,11 @@
+name: substitute 
+author: Arnav Vora
+description: |-
+  In a rowdy class, the substitute teacher left a note for the teacher expressing their frustration. However, the students were able to turn the note into some gibberish! Can you discover the original message in the note?
+  
+value: 15
+
+flag: "cyber{frequency_analysis_to_the_rescue}"
+
+provide:
+  - note.txt
