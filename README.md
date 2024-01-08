@@ -1,5 +1,5 @@
-# lactf-challenges-20XX
-Challenges for LA CTF 20XX.
+# cyber-winter-gm-w24
+Challenges for ACM Cyber's 2024 Winter GM.
 ## Organization (PLEASE READ FIRST)
 - `/CATEGORY/CHALLENGENAME/stuff`, where stuff includes a [challenge.yml](https://rcds.redpwn.net/en/latest/challenge/) ([sample](https://rcds.redpwn.net/en/latest/config-samples/#multi-container-web-challenge))
 - e.g. `/web/blog_haxxor/FILES_HERE`

@@ -1,0 +1,10 @@
+name: drag-the-crib
+author: Jason
+description: |-
+  The vigenere cipher is perfectly secure, right? Good, because here's my encrypted flag: `fpbxigox_vff_ttgc_kq_tjtvmsp`. In fact, I'm so confident in my crypto skills that I'll tell you the key is 4 letters long and that the flag contains the word "crib".
+
+  Wrap the answer in `cyber{}` before submitting.
+value: 15
+
+
+flag: "cyber{dragging_the_crib_to_victory}"

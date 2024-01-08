@@ -1,0 +1,10 @@
+name: crazy-daves-maze
+author: Jerry
+description: |-
+  BRAINNNNNNNSSSSS. Unfortunately, you have been turned into a zombie. Fortunately, however, you happen to have access to the backyard of a food source. Crazy Dave is protecting this house, but you think that even as a zombie, you have more brains than him. Can you outsmart him and find the solution to this maze?
+value: 10
+provide:
+  - ./plant0.zip
+
+
+flag: "flag{the_zombies_are_coming}"

@@ -1,0 +1,12 @@
+name: gaslight
+author: Benson Liu
+description: |-
+  I want to keep all of my favorite quotes from "Mean Girls" a secret. If I gaslight you enough, then you won't be able to see them. 😉
+
+  This might help you find them, [https://www.dcode.fr/caesar-cipher](https://www.dcode.fr/caesar-cipher).
+value: 1
+
+flag: "cyber{g4rL_B0s3}"
+
+provide:
+  - m3an-g4rls.txt

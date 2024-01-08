@@ -1,0 +1,10 @@
+name: favorite-gif
+author: Nik
+description: |-
+  An absolute *classic* GIF as far as I'm concerned!! You definitely should download it. And keep it on your computer. Forever.
+value: 15
+provide:
+  - ./peanut-butter-jelly-time.gif
+
+
+flag: "flag{peanut_butter_jelly_man_doesnt_fool_me}"

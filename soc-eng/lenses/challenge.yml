@@ -1,0 +1,8 @@
+name: lenses
+author: Daniel
+description: |-
+  Find someone you vibe with and exchange contact info on at least three platforms ex: iMessage, Discord, IG
+value: 10
+
+
+flag: "cyber{plastic_in_eyes}"

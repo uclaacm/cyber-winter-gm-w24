@@ -1,6 +1,6 @@
 docker:
   image:
-    prefix: us-west1-docker.pkg.dev/la-ctf/lactf-challs
+    prefix: docker.acmcyber.com/cyber-platform-challs
 defaults:
   containers:
     resources:
@@ -11,15 +11,11 @@ defaults:
         cpu: 50m
         memory: 64Mi
 backends:
-  - resolve: k8s
-    options:
-      domain: lac.tf
-      ingressController: nginx
   - resolve: rctf
     options:
-      url: "https://platform.lac.tf"
-      token: "RCTF_SIGNED_TOKEN_HERE"
+      url: "https://platform.acmcyber.com"
+      token: "2EVV+d3dETP59iiNxAWm/1k2MO/qAKG5GuR6Kr1Ul3El2xUD/b29ijqtawQ8aAwiRUQPvg7OXV+Dqk28TX1/l50ikXKrNZDZRnTc7unoe9QH0xs+djs+rlFYZK4j"
       # sortOrder:
-        # these should match the directory name, NOT the name field in the challenge.yaml
-        # - discord
-        # - test-chall
+      # these should match the directory name, NOT the name field in the challenge.yaml
+      # - discord
+      # - test-chall

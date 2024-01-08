@@ -1,0 +1,7 @@
+name: birds-of-a-feather
+author: Gary Song
+description: |-
+  Find someone who lives near you/in the same dorm! Come talk to Gary for the flag
+value: 10
+
+flag: "cyber{i_love_hedrick_hall}"

@@ -1,0 +1,21 @@
+name: former-pro
+author: Rory Hemmings
+description: |-
+  I've been having visions about my former life, but I can't seem to recall any specifics. The only thing I can remember is this poem:
+  
+  On the dimly lit court,
+  his eyes held secrets that echoed the hardwood battles of his past life,
+  where he once danced with giants and soared among the stars,
+  leaving only echoes of his name in the arena's rafters.
+  
+  In the digital shadows,
+  an enigmatic Instagram account beckoned like an unopened treasure chest,
+  offering glimpses into a hidden world where secrets and wonders lay waiting,
+  yet his name remains a mystery,
+  known only to be connected loosely with the author of this challenge.
+
+  Flag Format: `cyber{instagram_username}`
+value: 2
+
+flag: "cyber{roryxballer}"
+

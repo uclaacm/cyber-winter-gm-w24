@@ -1,0 +1,12 @@
+name: girlbossslay
+author: Gary Song
+description: |- 
+  RSA is secure if you keep both primes secret, but I'll give you one cause I'm a girlboss who doesn't need both primes
+  
+value: 25
+
+flag: "cyber{g4s_l1ght3rs}"
+
+provide:
+  - script.py
+

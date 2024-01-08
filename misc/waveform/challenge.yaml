@@ -1,0 +1,12 @@
+name: waveform
+author: salma
+description: |-
+  I was making some sick beats when someone hid a flag in the wav file I exported! It's so annoying :(
+    
+  Can you find it so I can go back to composing (taking pictures of my piano and posting them on the 'gram)?
+value: 10
+  
+provide:
+  - what_even_happened.wav
+
+flag: cyber{who_even_pays_for_fl_studio}

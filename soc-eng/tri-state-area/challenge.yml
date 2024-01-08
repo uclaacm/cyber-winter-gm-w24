@@ -1,0 +1,10 @@
+name: tri-state-area
+author: Rory
+description: |-
+  Interestingly enough, I've actually lived in three whole states throughout my life. Which ones though? Maybe you could use social engineering to find out.
+
+  flag format: `cyber{state1_state2_state3}`
+value: 2
+
+flag: "cyber{florida_colorado_california}"
+

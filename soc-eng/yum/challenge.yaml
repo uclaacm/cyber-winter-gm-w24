@@ -1,0 +1,7 @@
+name: Yum!
+author: Victoria
+description: |-
+  Find two other people who ate in the same dining hall as you today. Come to Victoria to get the flag.
+value: 10
+
+flag: "cyber{bPlate_coconut_yogurt}"
