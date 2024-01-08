@@ -1,8 +1,0 @@
-name: the-big-picture
-author: Audrey
-description: |-
-  Take a group picture of you and 3 other people and show it to Audrey to get the flag.
-value: 10
-
-
-flag: "cyber{1_2_3_cheese}"

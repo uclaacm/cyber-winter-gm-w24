@@ -1,8 +1,0 @@
-name: buddy-system
-author: Jason
-description: |-
-  Find someone that shares a **non-computer science** related hobby with you and then talk to Jason to get the flag.
-value: 10
-
-
-flag: "cyber{underwater_basket_weaving}"

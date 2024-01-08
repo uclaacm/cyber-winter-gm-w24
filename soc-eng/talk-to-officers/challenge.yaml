@@ -1,7 +1,0 @@
-name: Befriending Officers!
-author: Savannah
-description: |-
-  Find an officer who likes your favorite artist - they'll give you the flag once you find them
-value: 10
-
-flag: "cyber{kool_music_taste}"
