@@ -1,0 +1,9 @@
+name: haystack-v2
+author: Savannah
+description: |-
+  Oh no! I lost my needle in this big haystack. It's even larger than it was at fall GM! Can you help me find it?
+
+  [https://haystack.acmcyber.com](https://haystack.acmcyber.com)
+value: 15
+
+flag: "cyber{00ps_1_dr0pp3d_1t_1n_7h3_h4yst4ck_4g41n_4g41n}"

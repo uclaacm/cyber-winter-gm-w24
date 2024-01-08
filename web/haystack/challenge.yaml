@@ -1,9 +1,0 @@
-name: haystack
-author: Savannah
-description: |-
-  Oh no! I lost my needle in this big haystack. Can you help me find it?
-
-  [savannahalanis.github.io/haystack](https://savannahalanis.github.io/haystack/)
-value: 15
-
-flag: "cyber{oops_i_dropped_it_in_the_haystack_again}"
