@@ -1,0 +1,9 @@
+name: DATA BREACH
+author: Alec Machlis
+description: |-
+  HELP I GOT THIS EMAIL ABOUT BEING BREACHED IDK WHAT TO DO - THEY HID MY PASSWORD, CAN YOU GET THE PASSWORD TO MAKE SURE THAT THIS IS ACTUALLY MY PASSWORD?
+value: 15
+provide:
+  - ./To whom it may concern.pdf
+
+flag: "cyber{p4f_m4skz_4r3_n0t_s3cur3!}"
