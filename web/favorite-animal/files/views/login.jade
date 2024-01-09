@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1 Login:
+  form(action="/api/login", method="post") 
+    label(for="username") Username:
+    input(type="text", name="username")
+    br
+    br
+    label(for="favorite_animal") Favorite animal:
+    input(type="text", name="favorite_animal")
+    br
+    br
+    input(type="submit", value="Submit")
