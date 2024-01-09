@@ -1,0 +1,8 @@
+name: secret bunker
+author: Alec
+description: |-
+  I found [this secret bunker](https://docs.google.com/forms/d/e/1FAIpQLSdR5hpidF1WgxjGmlb5JN-q0x5or5OIzKJP7hxS02HmPorfzQ/viewform?usp=sf_link). Can you try and break in?
+
+flag: "cyber{r3g3x_4_z_w1n}"
+
+value: 10
