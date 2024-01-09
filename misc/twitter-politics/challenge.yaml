@@ -1,0 +1,10 @@
+name: twitter politics
+author: Alec
+description: |-
+  At exactly 9:27 p.m. EST November 3rd, the associated press politics division called that [person] won [location] in the 2020 US presidential election, announcing it on twitter.
+
+  Fill in the blanks and submit the flag as `cyber{[person]_[location]}`, like `cyber{benson_liu_new_jersey}`
+
+flag: "cyber{joe_biden_district_of_columbia}"
+
+value: 15
