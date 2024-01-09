@@ -1,0 +1,12 @@
+name: redirect to nowhere
+author: Alec
+description: |-
+  We've intercepted a message from a dark web group, but all it contains is a single link that redirects to google! Can you help find the hidden message?
+
+  [http://bitly.ws/u9Hc](http://bitly.ws/u9Hc)
+
+  Wrap the message in `cyber{}`
+
+flag: "cyber{qu3ry_p4r4m373r5_4r3_n07_54f3}"
+
+value: 20
