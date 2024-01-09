@@ -1,0 +1,10 @@
+name: string-cheese-2
+author: andrew
+description: >-
+  Now with 0% more strings, 20% more Java and 100% more cheese!
+
+flag: "cyber{american-cheese-is-not-real}"
+value: 10
+
+provide:
+  - Cheese.class
