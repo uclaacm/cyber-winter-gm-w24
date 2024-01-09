@@ -1,0 +1,10 @@
+name: string-cheese-3
+author: andrew
+description: >-
+  Now with 50% more math and 100% less cheese!
+
+flag: "cyber{strawberry-cream-cheese-bagel}"
+value: 30
+
+provide:
+  - LessCheese.class
