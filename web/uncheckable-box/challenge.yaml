@@ -1,0 +1,9 @@
+name: uncheckable-box
+author: Jason
+description: |-
+  All you have to do is agree to the terms and conditions and you can get the flag.
+
+  [https://uncheckable-box.acmcyber.com](https://uncheckable-box.acmcyber.com)
+value: 15
+
+flag: "cyber{did_you_read_the_fine_print}"
