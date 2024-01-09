@@ -1,0 +1,26 @@
+name: get-ready
+author: andrew
+description: >-
+  ARE YOU READY TO RUMBLE?
+
+  `{{nc}}`
+
+flag: "cyber{yaaaaaaaaaaaaaaaaasegmentationfault}"
+value: 10
+
+provide:
+  - ready.c
+
+containers:
+  main:
+    build: .
+    replicas: 1
+    ports:
+      - 5000
+    securityContext:
+      privileged: true
+
+expose:
+  main:
+  - target: 5000
+    tcp: 4081
