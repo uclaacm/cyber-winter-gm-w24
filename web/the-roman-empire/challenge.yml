@@ -1,9 +1,0 @@
-name: the-roman-empire
-author: Audrey
-description: |-
-  Just been thinking about the Roman Empire recently... take a look at this website I made !
-
-  [https://audreyemu.github.io/fallgm23/](https://audreyemu.github.io/fallgm23/)
-value: 10
-
-flag: "cyber{how_often_do_you_think_about_the_roman_empire}"
