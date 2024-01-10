@@ -2,7 +2,7 @@ name: a gift for u
 author: Alec Machlis
 description: |-
   I found a gift for you! Unwrap it to get your flag!
-value: 10
+value: 20
 provide:
   - ./a-gift-for-u.png
 

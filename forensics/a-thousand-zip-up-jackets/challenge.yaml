@@ -3,7 +3,7 @@ author: Alec Machlis
 description: |-
   It was freezing cold outside, so I put on some jackets, but I think I zipped up too many layers on me! Can you unzip all of the jackets off of me?
 
-value: 20
+value: 25
 provide:
   - ./flag.zip
 

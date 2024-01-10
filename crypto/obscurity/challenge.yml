@@ -3,7 +3,7 @@ author: Gary Song
 description: |-
   What does Kerckhoff know anyway?
   
-value: 20
+value: 10
 
 flag: "cyber{maximal_security}"
 

@@ -4,7 +4,7 @@ description: |-
   I caught someone using my computer, but they deleted the logs! I did capture this network traffic - can you tell me what they searched on google while on my computer?
 
   Format: `cyber{search term here}` (use spaces if in search query)
-value: 10
+value: 15
 provide:
   - ./http-googlesearch.pcapng
 
