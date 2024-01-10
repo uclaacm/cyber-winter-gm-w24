@@ -1,0 +1,9 @@
+name: twinsies
+author: Savannah
+description: |-
+  Find someone wearing the same color shirt or pants as you.
+
+  Come to Savannah for the flag!
+value: 10
+
+flag: "cyber{twinning_is_winning}"
