@@ -1,0 +1,12 @@
+name: illiterate-programming
+author: Benson Liu
+description: >-
+  "My code speaks for itself." - probably Donald Knuth
+
+  https://en.wikipedia.org/wiki/Literate_programming
+
+flag: "cyber{apparently_microsoft_will_hire_people_using_this_asldoijeqlknaspoakj}"
+value: 10
+
+provide:
+  - illiterate-programming

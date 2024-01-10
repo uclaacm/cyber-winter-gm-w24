@@ -1,0 +1,12 @@
+name: the-offer
+author: Benson Liu
+description: |-
+  I have an offer you can't refuse! 😉
+
+  You bring me: 2 other people who have the same number of siblings as you.
+  I give you: a flag 🥳
+
+  Bring everyone you find to Benson for the flag. 🫡
+value: 10
+
+flag: "cyber{bensons_sister_goes_to_cornell_btw}"

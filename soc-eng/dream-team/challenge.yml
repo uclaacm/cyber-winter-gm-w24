@@ -1,0 +1,9 @@
+name: dream-team
+author: Benson Liu
+description: |-
+  Everyone has their favorite sports team! Find someone who has the same favorite sports team as you.
+
+  Bring everyone you find to Benson for the flag. 🫡
+value: 10
+
+flag: "cyber{your_team_is_good_but_the_yankees_are_better}"
