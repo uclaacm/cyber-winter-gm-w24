@@ -1,0 +1,8 @@
+name: switcheroo
+author: Salma
+description: |-
+  Find a partner and engage in a two-item swap during Winter GM. Feel free to choose any two items, whether it's pencils, hair ties, bags, or anything else!
+  Visit Salma to display the swapped items and claim your flag. Don't forget to return the exchanged items at the end of the meeting!
+value: 10
+
+flag: "cyber{watch_my_stuff_real_quick}"

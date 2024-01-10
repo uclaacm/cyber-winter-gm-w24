@@ -1,0 +1,13 @@
+name: Boombox
+author: Salma
+description: |-
+  Meet boombox! The two-in-one music player and destructive explosive. I like to keep my music secret so I've password-locked it to blow up if someone besides me tries to access it. 
+  Can you figure out the password?
+
+  If you can't run the program on your computer, check out [https://shell.cloud.google.com](https://shell.cloud.google.com)
+value: 15
+
+flag: "cyber{WestVirginiaMountainMama}"
+
+provide:
+  - "boombox"
