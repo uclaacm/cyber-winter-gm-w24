@@ -1,0 +1,26 @@
+name: regular
+author: Arnav Vora 
+description: >-
+  Just act regular. Don't say anything too crazy.
+
+  `{{nc}}`
+
+flag: "cyber{express_yourself_regularly}"
+value: 20
+
+provide:
+  - gate.py
+
+containers:
+  main:
+    build: .
+    replicas: 1
+    ports: 
+      - 5000
+    securityContext:
+      privileged: true
+
+expose:
+  main:
+    - target: 5000
+      tcp: 4090
