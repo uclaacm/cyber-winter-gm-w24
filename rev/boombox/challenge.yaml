@@ -5,7 +5,7 @@ description: |-
   Can you figure out the password?
 
   If you can't run the program on your computer, check out [https://shell.cloud.google.com](https://shell.cloud.google.com)
-value: 1
+value: 15
 
 flag: "cyber{WestVirginiaMountainMama}"
 
