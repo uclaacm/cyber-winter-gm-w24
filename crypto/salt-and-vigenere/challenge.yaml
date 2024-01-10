@@ -1,0 +1,11 @@
+name: salt-and-vigenere
+author: Audrey
+description: |-
+  "Hello, could I get a sandwich, lemonade, and a bag of salt and vigenere chips please?" "Sure, just take a number. It'll be right out."
+  
+value: 10
+
+flag: "cyber{how_do_you_pronounce_vigenere}"
+
+provide:
+  - number.txt
