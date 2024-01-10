@@ -1,0 +1,10 @@
+name: a gift for u
+author: Alec Machlis
+description: |-
+  I found a gift for you! Unwrap it to get your flag!
+value: 10
+provide:
+  - ./a-gift-for-u.png
+
+
+flag: "cyber{0p3n1ng_7h3_z1pp3d_g1ft}"
