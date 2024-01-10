@@ -1,0 +1,8 @@
+name: blockbuster
+author: Audrey
+description: |-
+  Find someone that has seen the same movie as you from this past year (or has the same favorite movie as you)
+  
+value: 10
+
+flag: "cyber{hi_barbie}"
