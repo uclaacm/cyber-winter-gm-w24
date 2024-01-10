@@ -9,7 +9,7 @@ flag: "cyber{magikarp_jump_best_game_dont_@_me}"
 value: 50
 
 provide:
-  - escape-rope.c
+  - escape-rop.c
   - escape-rop
 
 containers:
