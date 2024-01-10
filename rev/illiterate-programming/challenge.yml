@@ -6,7 +6,7 @@ description: >-
   https://en.wikipedia.org/wiki/Literate_programming
 
 flag: "cyber{apparently_microsoft_will_hire_people_using_this_asldoijeqlknaspoakj}"
-value: 10
+value: 25
 
 provide:
-  - illiterate-programming
+  - illiterate-programming.py
