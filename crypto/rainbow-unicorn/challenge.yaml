@@ -1,0 +1,11 @@
+name: rainbow-unicorn
+author: andrew
+description: >-
+  We've almost broken into the lair of the Evil Unicorn Queen, but it looks like she's MD5-hashed the password to get in! Can you crack it before she plunges all of Rainbowland into eternal darkness?
+
+  Password hash: `97dbc2a344668554fe8b1bebbbfd45fe`
+
+  Wrap her plaintext password in cyber{} before submitting.
+
+flag: "cyber{ecl1ps3}"
+value: 10
