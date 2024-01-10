@@ -1,0 +1,11 @@
+name: obscurity 
+author: Gary Song
+description: |-
+  What does Kerckhoff know anyway?
+  
+value: 20
+
+flag: "cyber{maximal_security}"
+
+provide:
+  - enc.py

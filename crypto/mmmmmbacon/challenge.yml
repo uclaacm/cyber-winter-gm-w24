@@ -1,0 +1,11 @@
+name: mmmmmbacon 
+author: Gary Song
+description: |-
+  What a silly name for a cipher
+  
+value: 15
+
+flag: "cyber{sizzling_bacon}"
+
+provide:
+  - enc.txt
