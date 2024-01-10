@@ -1,0 +1,27 @@
+name: escape-rope
+author: andrew
+description: >-
+  This battle ain't looking so hot... maybe it's time to use that Escape ROPé?
+
+  `{{nc}}`
+
+flag: "cyber{magikarp_jump_best_game_dont_@_me}"
+value: 50
+
+provide:
+  - escape-rope.c
+  - escape-rop
+
+containers:
+  main:
+    build: .
+    replicas: 1
+    ports:
+      - 5000
+    securityContext:
+      privileged: true
+
+expose:
+  main:
+  - target: 5000
+    tcp: 8093
