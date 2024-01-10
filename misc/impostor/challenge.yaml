@@ -1,0 +1,12 @@
+name: impostor
+author: Jason
+description: |-
+  I found this image, but I can't seem to open it...
+
+flag:
+  file: ./flag.txt
+
+value: 10
+
+provide:
+  - ./sus.png
