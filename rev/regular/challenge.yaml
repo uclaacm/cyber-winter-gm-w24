@@ -3,7 +3,7 @@ author: Arnav Vora
 description: >-
   Just act regular. Don't say anything too crazy.
 
-  `{{nc}}`
+  `nc box.acmcyber.com 10000`
 
 flag: "cyber{express_yourself_regularly}"
 value: 20
@@ -23,4 +23,4 @@ containers:
 expose:
   main:
     - target: 5000
-      tcp: 4090
+      tcp: 10000
