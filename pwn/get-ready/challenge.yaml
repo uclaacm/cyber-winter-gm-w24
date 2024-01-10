@@ -3,7 +3,7 @@ author: andrew
 description: >-
   ARE YOU READY TO RUMBLE?
 
-  `{{nc}}`
+  `nc box.acmcyber.com 10001`
 
 flag: "cyber{yaaaaaaaaaaaaaaaaasegmentationfault}"
 value: 10
