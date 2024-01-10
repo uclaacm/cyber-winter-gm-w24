@@ -1,7 +1,7 @@
 name: as-the-crow-flies
 author: Arnav Vora
 description: |-
-  Find someone whose hometown is at least 1000 miles away (straight-line distance) from yours.
+  Find someone whose hometown is at least 1000 miles away (straight-line distance) from yours, and find Arnav together to get the flag!
   
 value: 10
 
