@@ -1,0 +1,8 @@
+name: as-the-crow-flies
+author: Arnav Vora
+description: |-
+  Find someone whose hometown is at least 1000 miles away (straight-line distance) from yours.
+  
+value: 10
+
+flag: "cyber{cross_country}"
