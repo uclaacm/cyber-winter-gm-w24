@@ -1,0 +1,8 @@
+name: honey-nut-cheerios
+author: Audrey
+description: |-
+  Find someone that has the same favorite cereal or favorite breakfast food as you
+  
+value: 10
+
+flag: "cyber{cheerios_on_top}"
