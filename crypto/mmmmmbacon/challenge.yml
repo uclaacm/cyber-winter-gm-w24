@@ -2,10 +2,12 @@ name: mmmmmbacon
 author: Gary Song
 description: |-
   What a silly name for a cipher
+
+  Flag format: `cyber{xxx}` where `xxx` are all lowercase letters.
   
 value: 15
 
-flag: "cyber{sizzling_bacon}"
+flag: "cyber{sizzlingbacon}"
 
 provide:
   - enc.txt
