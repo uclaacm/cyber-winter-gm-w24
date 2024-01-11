@@ -1,0 +1,10 @@
+name: feedback
+author: Cyber Officers
+description: |-
+  Thank you for coming to Winter GM 2024 and playing some challenges! We would greatly appreciate your feedback so we can improve in future quarters, and will give some points for doing so!
+
+  [https://tinyurl.com/cyber-feedback-w24](https://tinyurl.com/cyber-feedback-w24)
+
+value: 10
+
+flag: "cyber{thank_you_for_the_feedback!}"
